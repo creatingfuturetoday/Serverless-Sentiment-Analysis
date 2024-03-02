@@ -1,5 +1,5 @@
 # Sample Sentiment Analyzer
-**Note: This is not Production grade and simply meant as a demo**
+
 
 ## Description
 
